@@ -1,4 +1,3 @@
-# Python_Diwali_Sales_Analysis
-Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+The project focused on ensuring data quality and consistency through comprehensive data cleaning and manipulation. Using Python libraries like Pandas, NumPy, Seaborn, and Matplotlib, the team conducted exploratory data analysis (EDA) to gain insights into the dataset. They identified potential customers across various demographics, such as state, occupation, gender, and age groups, to enhance customer targeting and experience.
 
-## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
+Additionally, the analysis delved into identifying the most selling product categories and individual products. This information was vital for optimizing inventory planning and effectively meeting customer demand. By leveraging Python's data analysis capabilities, the team gained valuable insights that informed strategic decisions, improving customer targeting, inventory management, and overall business performance.
